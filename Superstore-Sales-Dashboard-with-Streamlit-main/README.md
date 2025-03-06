@@ -66,17 +66,22 @@ The project repository is organized as follows:
 
 Due to the extensive time invested in code development and in consideration of privacy concerns, the source code for the application is currently not publicly accessible. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Thank you
 
-## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+Author
+©2024 Gongali Suresh. All rights reserved
 
-## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [suresh gongali](mail : ssuresh8337@gmail.com). We would love to hear from you!
+Connect with me:
 
+LinkedIn
 
+GitHub
+
+Portfolio
+
+Kaggle
+
+Contact Me!
+Email: ssuresh8337@gmail.com
+Let’s talk! Whether you have questions, suggestions, or just want to say hello, I’d love to hear from you!
 
 
 
