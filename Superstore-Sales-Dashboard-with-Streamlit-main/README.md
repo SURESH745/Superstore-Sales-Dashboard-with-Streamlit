@@ -66,22 +66,17 @@ The project repository is organized as follows:
 
 Due to the extensive time invested in code development and in consideration of privacy concerns, the source code for the application is currently not publicly accessible. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Thank you
 
-Author
-©2024 Gongali Suresh. All rights reserved
+## Author  
+**©2024 Gongali Suresh. All rights reserved**  
 
-Connect with me:
+**Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/sureshgongali/)  
+- [GitHub](https://github.com/SURESH745)  
+- [Portfolio](https://sureshgongali.netlify.app/)  
+- [Kaggle](https://www.kaggle.com/sureshgongali)  
 
-LinkedIn
+---
 
-GitHub
-
-Portfolio
-
-Kaggle
-
-Contact Me!
-Email: ssuresh8337@gmail.com
-Let’s talk! Whether you have questions, suggestions, or just want to say hello, I’d love to hear from you!
-
-
-
+## Contact Me!  
+**Email:** [ssuresh8337@gmail.com](mailto:ssuresh8337@gmail.com)  
+**Let’s talk!** Whether you have questions, suggestions, or just want to say hello, I’d love to hear from you!  
